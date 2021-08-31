@@ -1,1 +1,3 @@
 # heat-spots-berne
+
+This is a project started at the hackathon ...
