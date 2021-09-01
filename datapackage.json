@@ -2,7 +2,8 @@
   "profile": "tabular-data-package",
   "resources": [
     {
-      "name": "Sensor measurements - July 2019",
+      "title": "Sensor measurements - July 2019",
+      "name": "data_harmonized_3",
       "path": "data/data_harmonized_3.csv",
       "profile": "tabular-data-resource",
       "schema": {
@@ -396,7 +397,8 @@
       }
     },
     {
-      "name": "Official data - July 2019",
+      "title": "Official data - July 2019",
+      "name": "Met_Zoll_HW192",
       "path": "data/Met_Zoll_HW192.csv",
       "profile": "tabular-data-resource",
       "schema": {
@@ -435,8 +437,9 @@
       }
     },
     {
-      "name": "Sensor locations",
+      "name": "Metadata_Logger",
       "path": "data/Metadata_Logger.csv",
+      "title": "Sensor locations",
       "profile": "tabular-data-resource",
       "schema": {
         "fields": [

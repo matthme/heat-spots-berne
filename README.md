@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthme/heat-spots-berne/HEAD?filepath=Heatmap.ipynb)
+
 # The heat spots of Berne
 
 Here we are trying to reproduce and interpret research of climate scientists into mapping and modelling of urban heat islands in the city using DIY (low cost and accessible-build) temperature sensors.
@@ -10,10 +12,20 @@ This is a project started at the [#EnergyClimateHack](https://hack.opendata.ch/p
 
 ## Quickstart
 
-1. Install [Anaconda](https://anaconda.org/)
-2. Add https://anaconda.org/conda-forge/ipyleaflet
-3. Add https://anaconda.org/anaconda/pandas
-4. Add https://anaconda.org/anaconda/jupyter
-5. Start a Jupyter Notebook in this folder
+Click here to start a cloud-hosted notebook that you can edit and run:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/matthme/heat-spots-berne/HEAD?filepath=Heatmap.ipynb)
+
+## Slightly slower start
+
+To get this running on your local machine, we suggest:
+
+1. Install [Anaconda](https://anaconda.org/) and open a shell in the root folder of this project.
+2. Create a new environment using `conda env create -n heatspots -f=environment.yml`
+3. Run the command `jupyter notebook` to start Jupyter
 
 You will see an initial Heatmap visualization. Click "Run all".
+
+# License
+
+This project is open source using the [MIT License](LICENSE)
