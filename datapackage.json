@@ -1,0 +1,504 @@
+{
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "Sensor measurements - July 2019",
+      "path": "data/data_harmonized_3.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "time (UTC)",
+            "type": "datetime",
+            "format": "default"
+          },
+          {
+            "name": "16",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "86",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "82",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "33",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "71",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "42",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "68",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "13",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "70",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "17",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "52",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "19",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "26",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "21",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "22",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "10",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "20",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "58",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "46",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "1",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "80",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "59",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "2",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "6",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "38",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "37",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "32",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "53",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "34",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "41",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "36",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "25",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "45",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "8",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "48",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "18",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "7",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "73",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "63",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "69",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "55",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "51",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "62",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "31",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "57",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "39",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "4",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "61",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "23",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "65",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "9",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "76",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "78",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "79",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "60",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "83",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "102",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "87",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "101",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "99 (Ref)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Log Nr. Validation station",
+            "type": "any",
+            "format": "default"
+          },
+          {
+            "name": "29",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "50",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "5",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "85",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "12",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "35",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "28",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "11",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "77",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "40",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "3",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "15",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "74",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "47",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "54",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Official data - July 2019",
+      "path": "data/Met_Zoll_HW192.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "Datum_Zeit (UTC +2h)",
+            "type": "datetime",
+            "format": "default"
+          },
+          {
+            "name": "Radiation (W/m2)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Temperature (°C)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Precipitation (mm)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Wind_mean (km/h)",
+            "type": "integer",
+            "format": "default"
+          },
+          {
+            "name": "Wind direction (°)",
+            "type": "integer",
+            "format": "default"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sensor locations",
+      "path": "data/Metadata_Logger.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "LOG_NR_2018",
+            "type": "integer",
+            "format": "default",
+            "title": "Logger identifiers 2018"
+          },
+          {
+            "name": "Log_NR_2019",
+            "type": "integer",
+            "format": "default",
+            "title": "Logger identifiers 2019"
+          },
+          {
+            "name": "NAME",
+            "type": "string",
+            "format": "default",
+            "title": "Address"
+          },
+          {
+            "name": "NORD_CHTOPO",
+            "type": "integer",
+            "format": "default",
+            "title": "Latitude"
+          },
+          {
+            "name": "OST_CHTOPO",
+            "type": "integer",
+            "format": "default",
+            "title": "Longitude"
+          },
+          {
+            "name": "ELEV_CHTOPO",
+            "type": "integer",
+            "format": "default",
+            "title": "Elevation"
+          }
+        ]
+      }
+    }
+  ],
+  "keywords": [
+    "urban-heat-islands"
+  ],
+  "name": "heatislands-ch-bern",
+  "title": "Heat islands in Bern",
+  "description": "Data used for mapping and modelling of urban heat islands.",
+  "homepage": "https://hack.opendata.ch/project/762",
+  "version": "0.1.0",
+  "contributors": [
+    {
+      "title": "O Lavrovsky",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "ODC-BY-1.0",
+      "title": "Open Data Commons Attribution License 1.0",
+      "path": "http://www.opendefinition.org/licenses/odc-by"
+    }
+  ]
+}
