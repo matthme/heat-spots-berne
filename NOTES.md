@@ -1,7 +1,7 @@
 Project notes
 ===
 
-Additional notes on this topic. Thank you to Maud, Andrea and all contributors to the 2021 Energy & Climate Hack where we started this!
+Additional notes on this topic. Thank you to Moritz Burger for an excellent challenge, to Maud, Andrea and all the other participants of the event where our team (Oleg L, Izzi M, Matthias M) worked on this project - the  [2021 Energy & Climate Hack](https://hack.opendata.ch/project/762).
 
 ![](sketch/wärmcity-bern.jpg)
 
